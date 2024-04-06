@@ -5,6 +5,8 @@ public class typecast {
         int x = 10;
         x += 5;
 
+        System.out.println("Sample typecastings==>");
+
         System.out.println(x);
     }
 }
